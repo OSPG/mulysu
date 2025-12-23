@@ -1,0 +1,24 @@
+[
+  {
+    "artist": "ASIAN KUNG-FU GENERATION",
+    "song": "Kimi no Machi Made",
+    "artist_original": "ASIAN KUNG-FU GENERATION",
+    "song_original": "君の街まで",
+    "resources": [
+      {
+        "type": "vid.subs",
+        "url": "https://www.youtube.com/watch?v=5yGp1Go3hB4",
+        "language": "es",
+        "votes": 1,
+        "content": null
+      },
+      {
+        "type": "vid.lyrics",
+        "url": "https://www.youtube.com/watch?v=MJay7FkFEkM",
+        "language": "es",
+        "votes": 0,
+        "content": null
+      }
+    ]
+  }
+]
