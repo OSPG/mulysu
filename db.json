@@ -20,5 +20,71 @@
         "content": null
       }
     ]
+  },
+  {
+    "artist": "amazarashi",
+    "song": "Furui SF Eiga",
+    "artist_original": "amazarashi",
+    "song_original": "古いSF映画",
+    "resources": [
+      {
+        "type": "vid.subs",
+        "url": "https://youtu.be/gxKucWjWAxY",
+        "language": "es",
+        "votes": 0,
+        "content": null
+      },
+      {
+        "type": "vid.lyrics",
+        "url": "https://youtu.be/KquP2apf4Zw",
+        "language": "es",
+        "votes": 0,
+        "content": null
+      },
+      {
+        "type": "vid.subs",
+        "url": "https://youtu.be/pdwTV7Fhc8c",
+        "language": "en",
+        "votes": 0,
+        "content": null
+      }
+    ]
+  },
+  {
+    "artist": "ONE OK ROCK",
+    "song": "Kemuri",
+    "artist_original": "ONE OK ROCK",
+    "song_original": "ケムリ",
+    "resources": [
+      {
+        "type": "vid.lyrics",
+        "url": "https://youtu.be/CUz2nI2FzmM",
+        "language": "es",
+        "votes": 0,
+        "content": null
+      }
+    ]
+  },
+  {
+    "artist": "Hitsujibungaku",
+    "song": "Step",
+    "artist_original": "羊文学",
+    "song_original": "Step",
+    "resources": [
+      {
+        "type": "vid.lyrics",
+        "url": "https://youtu.be/MlWW4UTw3Sg",
+        "language": "es",
+        "votes": 0,
+        "content": null
+      },
+      {
+        "type": "vid.subs",
+        "url": "https://youtu.be/9PsnN80QdaA",
+        "language": "en",
+        "votes": 0,
+        "content": null
+      }
+    ]
   }
 ]

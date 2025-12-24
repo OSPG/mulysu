@@ -13,13 +13,12 @@ DB_FILE = "db.json"
 
 @dataclass
 class Resource:
-    """Represents a resource (video, lyrics, etc.)"""
-    type: str
+    """Represents a found resource"""
+    type: str  # 'vid.subs', 'vid.lyrics', 'text.lyrics'
     url: str
-    language: str
+    language: List[str] = field(default_factory=list)
     votes: int = 0
     content: Optional[str] = None
-
 
 @dataclass
 class Song:
